@@ -1,8 +1,25 @@
 /*css.css*/
-#JosefD{
+p{
+	font-family:'Raleway'
+}
+.nitrome{
+	background-image:touchy_wallpaper.png;
+	font-family:'Raleway';
+}
+#nitrome{
+	width:40px;
+}
+.description{
+	font-family:'Raleway';
+	size:24px;
+	padding-left:60px;
+}
+	
+h1{
 	font-family:'Baumans';
 	text-shadow:2px 3px #666666;
 }
+
 #header{
 	background-color:grey;
 	text-align:center;
